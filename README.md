@@ -41,6 +41,32 @@
 6. name *//why is name necessary?//*
 7. referrer
 
+## List of Events on **Tour Details Page**
+1. Viewed Tour Details Page *Equivalent to showing interest -- want*
+  1. Loacation (of Tour)
+  2. Category *//are there multiple categories for a tour?//*
+  3. Price
+  4. Hours
+  5. Days
+  6. Nights
+  7. View Count
+  8. Number of Bookings
+  9. Rating
+  10. Number of Reviews *//to be used in funnels//*
+  11. Title
+  12. Name
+  13. Frompage
+  14. url
+  15. path 
+  16. name
+  17. referrer
+2. Selected Date
+  1. FromPage
+  2. LinkText
+  3. LinkLocation
+  4. ToPage
+  5. 
+
 
 
 **Assumptions:**
