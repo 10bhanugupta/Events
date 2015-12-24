@@ -79,13 +79,13 @@
   14. Tour_Inclusions
   15. Tour_Rating
   16. Tour_Number of Reviews
-  17. 
-3. Selected Date
-  1. FromPage
-  2. LinkText
-  3. LinkLocation
-  4. ToPage
-  5. Tour_Name
+  17. Seleceted Date
+    1. 1
+    2. 0
+  18. Selected Group Size
+    1. 1
+    2. 0
+
 
 
 
