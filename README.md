@@ -25,6 +25,11 @@
 23. ts_Year
 24. Referrer
 25. Referring_Domain
+26. Follows
+  1. Bangalore
+  2. Adventure
+  3. Sightseeing
+  4. etc.
 
 ## Default Properties for EventType=Clicked
 1. FromPage
@@ -85,11 +90,25 @@
   18. Selected Group Size
     1. 1
     2. 0
+3. Clicked >>3 buttons ?? <<
+4. Clicked Reviews
+5. Clicked Show Inclusions
+6. Clicked show more (OverView)
+7. Clicked show more (Itinerary)
+8. Clicked photo
+  1. Number of Photos Viewed
+9. Clicked more photos
+  1. Number of photos Viewed
+10. Clicked FAQs
+
+## List of Events on the Header
+
+## List of Events on the Footer
 
 
-
-
-
+**Heavy Doubts**
+1. Why are Download Apps buttons at the bottom of the tour details page?
+2. 
 **Assumptions:**
 1. *On one device, user always uses the same OS and browser*
 2. *One device has only one OS*
