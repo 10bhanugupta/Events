@@ -18,14 +18,9 @@
 16. UTM Medium
 17. UTM Content
 18. UTM Term
-19. ts_time of day
-20. ts_Date
-21. ts_Day
-22. ts_Month
-23. ts_Year
-24. Referrer
-25. Referring_Domain
-26. Follows
+19. Referrer
+20. Referring_Domain
+21. Follows
   1. Bangalore
   2. Adventure
   3. Sightseeing
@@ -36,6 +31,7 @@
 2. LinkText
 3. LinkLocation
 4. ToPage
+5. ts_time of day
 
 ## Default Properties for EventType=Viewed/Visited
 1. Title
@@ -45,11 +41,12 @@
 5. path */why is path necessary?/*
 6. name */why is name necessary?/*
 7. referrer
+8. ts_time of day
 
 ## List of Events on **Tour Details Page**
 1. Viewed Tour Details Page *Equivalent to showing interest -- want*
   1. Loacation (of Tour)
-  2. Category */are there multiple categories for a tour?/*
+  2. Category *there will be multiple categories for a tour?/*
   3. Price
   4. Hours
   5. Days
@@ -65,6 +62,8 @@
   15. path 
   16. name
   17. referrer
+  18. ts_time of day
+  
 2. Clicked Book Now
   1. FromPage
   2. LinkText
@@ -90,6 +89,8 @@
   18. Selected Group Size
     1. 1
     2. 0
+  19. ts_time of day
+  
 3. Clicked >>3 buttons ?? <<
 4. Clicked Reviews
 5. Clicked Show Inclusions
